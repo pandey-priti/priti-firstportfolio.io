@@ -1,2 +1,3 @@
-#priti-first
-Priti Pandey First Portfolio
+#pritifirst
+
+Priti Pandey's First Portfolio
